@@ -1,7 +1,7 @@
 # Data Augmentation via Aprendizado Semissupervisionado Baseado em Grafos
 
 Repositório de minha primeira iniciação científica intitulada "Data Augmentation via Aprendizado Semissupervisionado Baseado em Grafos"
-Data Augmentation via Aprendizado Semissupervisionado Baseado em Grafos"
+Data Augmentation via Aprendizado Semissupervisionado Baseado em Grafos",  realizada no período de junho de 2017 a julho de 2018, como bolsista PIBIC.
 
 Willian Dihanster G. Oliveira, Otávio A. B. Penatti, Lilian Berton - ICT/UNIFESP 
 
